@@ -2,7 +2,7 @@
 A recursive  algorithm for draw a fractal tree.
 Explaniation:
 1) Draw a vertical line.
-2) Draw s sub-line with an orientation of a theta angle
+2) Draw a sub-line with an orientation of a theta angle
 3) Then the recursivity does all the work
 
 In my code i considered some variables like:
