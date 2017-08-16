@@ -26,15 +26,16 @@ namespace FractalTree
         {
             Graphics g = e.Graphics;
             Pen pen = new Pen(Color.Black);
-            paintFractalTree(pen, 240, 460, 13, 90, g);
+            paintFractalTree(pen, 240, 460, 14, 90, g);
+            pen.Dispose();
         }
 
         private void paintFractalTree(Pen pen, float xo, float yo, int depth, double angle, Graphics line)
         {
             if (depth > -1)
             {   
-                float yf = yo - (sin(degreeToRadian(angle)) * depth * 3);
-                float xf = xo - (cos(degreeToRadian(angle)) * depth * 3);
+                float yf = yo - (sin(degreeToRadian(angle)) * depth * 2);
+                float xf = xo - (cos(degreeToRadian(angle)) * depth * 2);
                 line.DrawLine(pen, xo, yo, xf, yf);
                 paintFractalTree(pen, xf, yf, depth - 1, angle + 20, line);
                 paintFractalTree(pen, xf, yf, depth - 1, angle - 20, line);

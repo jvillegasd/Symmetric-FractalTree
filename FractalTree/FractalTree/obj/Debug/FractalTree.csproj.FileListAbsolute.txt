@@ -7,3 +7,12 @@ C:\Users\Johnny\Desktop\FractalTree\FractalTree\obj\Debug\FractalTree.csproj.Gen
 C:\Users\Johnny\Desktop\FractalTree\FractalTree\obj\Debug\FractalTree.exe
 C:\Users\Johnny\Desktop\FractalTree\FractalTree\obj\Debug\FractalTree.pdb
 C:\Users\Johnny\Desktop\FractalTree\FractalTree\obj\Debug\FractalTree.Form1.resources
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\bin\Debug\FractalTree.exe.config
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\obj\Debug\FractalTree.exe
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\obj\Debug\FractalTree.pdb
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\bin\Debug\FractalTree.exe
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\bin\Debug\FractalTree.pdb
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\obj\Debug\FractalTree.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\obj\Debug\FractalTree.Form1.resources
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\obj\Debug\FractalTree.Properties.Resources.resources
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\obj\Debug\FractalTree.csproj.GenerateResource.Cache
