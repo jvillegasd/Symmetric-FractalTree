@@ -6,6 +6,7 @@ Explaniation:
 3) Then the recursivity does all the work
 
 In my code i considered some variables like:
+
 -) Depth: This var works for know the level of the fractal tree and i used it to create the base case.
 
 -) Angle: This var save the orientation angle of the lines
