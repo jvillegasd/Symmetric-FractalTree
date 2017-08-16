@@ -34,7 +34,7 @@ namespace FractalTree
                 float length = Convert.ToSingle(tb1.Text);
                 double anglevar = Convert.ToDouble(nud3.Value);
                 int depth = Convert.ToInt32(nud1.Value);
-                int xo = (picturebox.Width / 2) - 3;
+                int xo = (  picturebox.Width / 2) - 2;
                 int yo = picturebox.Height - 5;
                 paintFractalTree(pen, xo, yo, depth, 90, length, anglevar, g);
                 pen.Dispose();
