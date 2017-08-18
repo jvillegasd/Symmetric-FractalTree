@@ -87,7 +87,7 @@
             this.tb1.Name = "tb1";
             this.tb1.Size = new System.Drawing.Size(40, 20);
             this.tb1.TabIndex = 5;
-            this.tb1.Text = "1";
+            this.tb1.Text = "3";
             this.tb1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox1_KeyPress);
             // 
             // label4
