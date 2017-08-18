@@ -75,15 +75,15 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(185, 362);
+            this.label2.Location = new System.Drawing.Point(183, 362);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(43, 13);
+            this.label2.Size = new System.Drawing.Size(76, 13);
             this.label2.TabIndex = 2;
-            this.label2.Text = "Length:";
+            this.label2.Text = "Branch length:";
             // 
             // tb1
             // 
-            this.tb1.Location = new System.Drawing.Point(239, 359);
+            this.tb1.Location = new System.Drawing.Point(264, 359);
             this.tb1.Name = "tb1";
             this.tb1.Size = new System.Drawing.Size(40, 20);
             this.tb1.TabIndex = 5;
@@ -118,9 +118,9 @@
             // 
             // drawbt
             // 
-            this.drawbt.Location = new System.Drawing.Point(188, 405);
+            this.drawbt.Location = new System.Drawing.Point(203, 399);
             this.drawbt.Name = "drawbt";
-            this.drawbt.Size = new System.Drawing.Size(75, 23);
+            this.drawbt.Size = new System.Drawing.Size(75, 22);
             this.drawbt.TabIndex = 8;
             this.drawbt.Text = "Draw";
             this.drawbt.UseVisualStyleBackColor = true;
